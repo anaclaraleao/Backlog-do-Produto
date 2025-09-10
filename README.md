@@ -26,3 +26,17 @@ Sprint 5 – Refinamento e Segurança
 *    Ajustes na modularidade e refatoração do código
 *    Testes finais e documentação
 
+##  Requisitos do Sistema
+
+### Funcionais
+
+*   **Cadastro de usuário**: Usuários podem se cadastrar no sistema.
+*   **Autenticação de login**: Diferentes níveis de acesso.
+*   **Abertura de chamados**: Usuários podem registrar requisições de suporte.
+*   **Classificação inteligente**: IA analisa chamados e sugere soluções ou encaminha ao técnico adequado.
+
+### Não Funcionais
+
+*   **Banco de dados**: SQL Server.
+*   **Segurança**: Implementação de medidas de segurança.
+*   **Modularidade**: Design modular do sistema.
